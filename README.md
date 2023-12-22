@@ -60,7 +60,7 @@ This DJ is a loyal friend for life and would never give up on those closest to t
 ## Bubbles Chickenwort, Pig Farmer (Marie Steiner)
 ### Trailer Park: Winter Hills, Lot 16
 ### Cancer - Birthday: July 10 
-### Bubbles' desire for adventure and frequent flakiness might be influenced by Cancer's changeable nature.
+### Bubbles' desire for adventure and frequent flakiness might be influenced by Cancer's changeable nature. [astrology reading](./readings/chickenwort.md)
 Bubbles Chickenwort has recently created a pig farm on the costume outskirts of Henpecked Junction. 
 Bubbles still resides in the Winter Hills Trailer Park and scoots over to the farm each day at sunrise.
 This hiccupping farmer is a constant key and coin jingler who wears massive eyeglasses and speaks to themselves in public. 
@@ -76,7 +76,7 @@ Bubbles had always wanted to raise animals as an occupation, and pigs just seeme
 ## Crash P. Coltrane, Hair Tamer (George Butz)
 ### Trailer Park: Winter Hills, Lot 14 
 ### Leo - Birthday: August 19
-### Crash's expressive personality and desire for recognition align with Leo traits.
+### Crash's expressive personality and desire for recognition align with Leo traits. [astrology reading](./readings/coltrane.md)
 Crash P. Coltrane is the chief hair tamer at Mullet Cuts — the only hair salon in Henpecked Junction. 
 Crash taps their chin while thinking and is severely introverted. 
 It's a wonder they chose a profession dealing with the public. 
@@ -92,7 +92,7 @@ Crash may be the most brilliant resident of Henpecked Junction, but you'd never 
 ## Lipton Dittybopper, Online Retail Shop Owner (Mandy Butz)
 ### Trailer Park: Summer Gardens, Lot 11
 ### Libra - Birthday: October 22
-### Lipton's obsession with pop culture and judgmental tendencies might be linked to Libra's love for aesthetics and balance.
+### Lipton's obsession with pop culture and judgmental tendencies might be linked to Libra's love for aesthetics and balance. [astrology reading](./readings/dittybopper.md)
 Lipton Dittybopper owns the online shop on Eggsy called The Redneckery — a handmade jewelry shop selling quirky jewelry from trash Lipton finds on the street, such as soda can tops, candy wrappers, cigarette butts, and more.
 Lipton trusts everyone, is obsessed with pop culture, and is a rabid but fake vegan. 
 Lipton can be highly judgmental and will insult others out of earshot.
@@ -105,7 +105,7 @@ But of course, you get to hear about it every time you see Lipton — who never 
 ## Gator Daniels, Mailman (Richard Thomas)
 ### Trailer Park: Fall Pines, Lot 7 
 ### Aries - Birthday: April 1
-### Gator's outgoing and impulsive nature is typical of an Aries.
+### Gator's outgoing and impulsive nature is typical of an Aries. [astrology reading](./readings/daniels.md)
 Gator Daniels is the lovable, outgoing mailperson of Henpecked Junction.
 With the tiny post office having three employees, Gator is the only one delivering mail to the town. 
 Gator refueses to plan anything, so this mail jockey is about impulse decisions.
@@ -121,7 +121,7 @@ Gator is the town's humanitarian and is the only one who makes an effort to put 
 ## Clydetta Ruffnap, Professional Fake Friend (Kirsten Thomas)
 ### Trailer Park: Summer Gardens, Lot 4 
 ### Virgo - Birthday: August 31
-### Clydetta's need to have the last word and being easily influenced may be connected to Virgo's meticulous and analytical nature.
+### Clydetta's need to have the last word and being easily influenced may be connected to Virgo's meticulous and analytical nature. [astrology reading](./readings/ruffnap.md)
 If you ever need bodies to fill seats and pretend friends, call upon Clydetta. 
 Ms. Ruffnap works as a professional fake friend for weddings, funerals, class reunions, and more. 
 Clydetta usually travels outside Henpecked Junction for work, so she must leave her home unattended at the Summer Gardens Trailer Park.
@@ -135,7 +135,7 @@ In addition, Clydetta is enthusiastic about life and has become fluent in eight 
 ## Sweetpea Eversnot, Private Detective (Lyndsey Gibbons)
 ### Trailer Park: Spring Meadows, Lot 25 
 ### Capricorn - Birthday: December 24
-### Sweatpea's suspicion and social deduction skills may be influenced by Capricorn's practicality and determination.
+### Sweatpea's suspicion and social deduction skills may be influenced by Capricorn's practicality and determination. [astrology reading](./readings/eversnot.md)
 The always-starving private detective of Henpecked Junction is named Sweatpea Eversnot. 
 This PI is suspicious of everyone and everything and has impeccable skills with social deduction.
 Sweatpea expects undying loyalty from everyone.
@@ -151,7 +151,7 @@ Detective eversnot will go to the ends of the Earth to solve the case.
 ## Skipper Clampetts, Fast Food Chef (Sean Gibbons)
 ### Trailer Park: Summer Gardens, Lot 14
 ### Aquarius - Birthday: February 9
-### Skipper's attention to hygiene and tendency to seek flattery match Aquarius' independent and forward-thinking nature.
+### Skipper's attention to hygiene and tendency to seek flattery match Aquarius' independent and forward-thinking nature. [astrology reading](./readings/clampetts.md)
 Skipper Clampetts is the head chef at the Angry Rooster — the most popular fast-food establishment in Henpecked Junction. 
 Skipper’s known to be reactive and dramatic so working for this spatula-wielder can be taxing.
 Skipper is forgetful but surprisingly has a crystal-clear memory of being the regional dodgeball champion and MVP for Henpecked High in high school. 
