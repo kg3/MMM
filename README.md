@@ -207,59 +207,94 @@ The townies have poked fun of her for wanting to be a city slicker, but Darleen 
 
 # Trailer Parks Arrangement:
 ## Fall Pines (Lots 1, 5, 7, 8): 
+
 Located to the north of the town square, a forested area with autumn-themed decorations.
-### Boo Boo Bonefat (Mayor)
-### Gator Daniels (Mailman)
+
+**Boo Boo Bonefat (Mayor)**
+
+**Gator Daniels (Mailman)**
 
 ## Summer Gardens (Lots 4, 11, 13, 14): 
 Situated to the east, featuring lush greenery and floral arrangements.
-### Lipton Dittybopper (Online Retail Shop Owner)
-### Clydetta Ruffnap (Professional Fake Friend)
-### Skipper Clampetts (Fast Food Chef)
-### Cletus Bottums (Taxi Driver)
+
+**Lipton Dittybopper (Online Retail Shop Owner)**
+
+**Clydetta Ruffnap (Professional Fake Friend)**
+
+**Skipper Clampetts (Fast Food Chef)**
+
+**Cletus Bottums (Taxi Driver)**
+
 
 ## Spring Meadows (Lots 25, 52, 53): 
 To the south, characterized by open fields and blooming flowers.
-### Dimples Clementine (Reality Star)
-### Jem Rock (Mobile DJ)
-### Sweetpea Eversnot (Private Detective)
+
+**Dimples Clementine (Reality Star)**
+
+**Jem Rock (Mobile DJ)**
+
+**Sweetpea Eversnot (Private Detective)**
 
 ## Winter Hills (Lots 2, 3, 14, 16, 20): 
 Positioned to the west, with a hillier terrain and wintery themes.
-### Bubbles Chickenwort (Pig Farmer)
-### Crash P. Coltrane (Hair Tamer)
-### Ransom Cornfoot (Janitor)
-### Darleen Pringles (Waitress)
+
+**Bubbles Chickenwort (Pig Farmer)**
+**Crash P. Coltrane (Hair Tamer)**
+**Ransom Cornfoot (Janitor)**
+**Darleen Pringles (Waitress)**
 
 
 ## Character Connections and Daily Activities:
-### Boo Boo Bonefat: Likely to be at City Hall, managing town affairs, or at the Fall Pines Trailer Park. May also be found preparing for the Mullet Fest at the Town Square.
-### Dimples Clementine: Possibly working on the set of their reality show or shopping (perhaps surreptitiously adding to their massive bag). Could be seen socializing at Spring Meadows.
-### Jem Rock: Likely DJing at events or at music stores, also possibly seen at Spring Meadows or planning their next career move.
-### Bubbles Chickenwort: At their pig farm or possibly at the Winter Hills Trailer Park. Could also be found exploring around town for adventures.
-### Crash P. Coltrane: Mostly at Mullet Cuts, working on hairstyles or keeping to themselves despite their public-facing job.
-### Lipton Dittybopper: At their home in Summer Gardens, running The Redneckery online, or socializing at the Rebel Yell Waterin’ Hole.
-### Gator Daniels: Delivering mail around town or organizing charitable events. Could be anywhere in town but starts and ends their day at Fall Pines.
-### Clydetta Ruffnap: Often traveling outside town for work, might be at Summer Gardens or planning another gig.
-### Sweetpea Eversnot: Conducting private investigations, likely spotted around Spring Meadows or following leads throughout Henpecked Junction.
-### Skipper Clampetts: At The Angry Rooster or possibly sourcing fresh ingredients for the restaurant.
-### Cletus Bottums: Driving his taxi, primarily between the trailer parks and local hangouts like the Rebel Yell Waterin’ Hole and Spotted Stag Dance Hall.
-### Ransom Cornfoot: Cleaning at various locations like the high school or city hall, or wandering around Winter Hills.
-### Darleen Pringles: Serving at Breakfast Served Any Time or perhaps dreaming of her future culinary career.
+
+**Boo Boo Bonefat**: Likely to be at City Hall, managing town affairs, or at the Fall Pines Trailer Park. May also be found preparing for the Mullet Fest at the Town Square.
+
+**Dimples Clementine**: Possibly working on the set of their reality show or shopping (perhaps surreptitiously adding to their massive bag). Could be seen socializing at Spring Meadows.
+
+**Jem Rock**: Likely DJing at events or at music stores, also possibly seen at Spring Meadows or planning their next career move.
+
+**Bubbles Chickenwort**: At their pig farm or possibly at the Winter Hills Trailer Park. Could also be found exploring around town for adventures.
+
+**Crash P. Coltrane**: Mostly at Mullet Cuts, working on hairstyles or keeping to themselves despite their public-facing job.
+
+**Lipton Dittybopper**: At their home in Summer Gardens, running The Redneckery online, or socializing at the Rebel Yell Waterin’ Hole.
+
+**Gator Daniels**: Delivering mail around town or organizing charitable events. Could be anywhere in town but starts and ends their day at Fall Pines.
+
+**Clydetta Ruffnap**: Often traveling outside town for work, might be at Summer Gardens or planning another gig.
+
+**Sweetpea Eversnot**: Conducting private investigations, likely spotted around Spring Meadows or following leads throughout Henpecked Junction.
+
+**Skipper Clampetts**: At The Angry Rooster or possibly sourcing fresh ingredients for the restaurant.
+
+**Cletus Bottums**: Driving his taxi, primarily between the trailer parks and local hangouts like the Rebel Yell Waterin’ Hole and Spotted Stag Dance Hall.
+
+**Ransom Cornfoot**: Cleaning at various locations like the high school or city hall, or wandering around Winter Hills.
+
+**Darleen Pringles**: Serving at Breakfast Served Any Time or perhaps dreaming of her future culinary career.
 
 ## Event-Specific Locations:
-### Mullet Fest: A major gathering likely involving most characters, taking place in the Town Square.
+**Mullet Fest**: A major gathering likely involving most characters, taking place in the Town Square.
 
 ## Businesses and Places of Interest:
-### Mullet Cuts Salon: Run by Crash P. Coltrane.
-### The Angry Rooster: Fast-food establishment where Skipper Clampetts is the head chef.
-### Breakfast Served Any Time: Central gathering spot with Darleen Pringles as the head waitress.
-### Rebel Yell Waterin’ Hole: A popular hangout spot, frequented by Lipton Dittybopper.
-### Spotted Stag Dance Hall: Another social venue.
-### Henpecked Junction Town Square: Location for the Mullet Fest.
-### Local High School: One of Ransom Cornfoot’s janitorial locations.
-### City Hall: Cleaned by Ransom Cornfoot.
-### Bubbles Chickenwort’s Pig Farm: Located on the outskirts.
-### Post Office: Where Gator Daniels works.
-### "I'll Get Ya There" Taxi Service: Operated by Cletus Bottums.
+**Mullet Cuts Salon**: Run by Crash P. Coltrane.
+
+**The Angry Rooster**: Fast-food establishment where Skipper Clampetts is the head chef.
+
+**Breakfast Served Any Time**: Central gathering spot with Darleen Pringles as the head waitress.
+
+**Rebel Yell Waterin’ Hole**: A popular hangout spot, frequented by Lipton Dittybopper.
+
+**Spotted Stag Dance Hall**: Another social venue.
+
+**Henpecked Junction Town Square**: Location for the Mullet Fest.
+
+**Local High School**: One of Ransom Cornfoot’s janitorial locations.
+
+**City Hall**: Cleaned by Ransom Cornfoot.
+
+**Bubbles Chickenwort’s Pig Farm**: Located on the outskirts.
+
+**Post Office**: Where Gator Daniels works.
+
+**"I'll Get Ya There" Taxi Service**: Operated by Cletus Bottums.
 
