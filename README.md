@@ -1,15 +1,22 @@
 # MURDER, MAYHEM, & MULLETS
+
+![collage](./images/collage-2.png "collage")
 ## SYNOPSIS
                   
 Henpecked Junction is a small, charming town chock full of the best trailer parks with the most offbeat, neighborly, and, well, troublemaking residents. 
 The festival planners have spewed blood, sweat, and bacon grease to make this year's Mullet Fest the most extraordinary jubilee ever thrown in the town square. 
+
+
 Everyone's chompin’ at the bit to party this year, as Henpecked Junction recently received national recognition for bringing home a record number of winnin' titles, such as the Mullet of the Year Award, Muds & Suds Truck Race, Rompin', Stompin' Hot Dog Chomp - and the list goes on.
 But the mayor's feelin’ like a long-tailed cat in a room of rockin’ chairs about how the townies will behave. 
+
+
 Last year, the festival had to shut down before sundown due to excessive table divin', portable potty vandalism, among other wrongdoings. 
 So hopefully, everyone will be on their best behavior. 
 Well, hmm, that bar ain't too high, if ya know what I'm sayin.
 But can't never could do nothing, so the show will go on as planned.
 I saw that you snagged your ticket to Mullet Fest, and I know you can't wait to see what all's being fried up for the food offerings.
+
 
 ![Boo Boo Bonefat](./images/mayor-2.png "Boo Boo Bonefat")
 
