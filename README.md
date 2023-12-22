@@ -11,12 +11,12 @@ Well, hmm, that bar ain't too high, if ya know what I'm sayin.
 But can't never could do nothing, so the show will go on as planned.
 I saw that you snagged your ticket to Mullet Fest, and I know you can't wait to see what all's being fried up for the food offerings.
 
-![Boo Boo Bonefat](./images/mayor.png "Boo Boo Bonefat")
+![Boo Boo Bonefat](./images/mayor-2.png "Boo Boo Bonefat")
 
 ## Boo Boo Bonefat, Mayor of Henpecked Junction (Nick Dufek)
 ### Trailer Park: Fall Pines, Lot 5 
 ### Cancer - Birthday: July 12
-### Boo Boo's protectiveness of animals and their gift for storytelling are typical of Cancers. They are nurturing and sentimental individuals. [detailed astrology](./readings/bonefat.md)
+### Boo Boo's protectiveness of animals and their gift for storytelling are typical of Cancers. They are nurturing and sentimental individuals. [astrology reading](./readings/bonefat.md)
 Boo-Boo Bonefat has been the residing mayor of Henpecked Junction for almost a decade. 
 Boo-Boo despises change of any kind and manages the town with questionable practices. 
 Boo-Boo will make up words to make your brain spin while gazing into your eyes with unreadable facial expressions. 
@@ -31,7 +31,7 @@ The mayor is also the town's protector of animals and a rather gifted storytelle
 ## Dimples Clementine, Reality Star (Christina Dufek)
 ### Trailer Park: Spring Meadows, Lot 52
 ### Taurus - Birthday: May 5
-### Dimples' steadfastness and tendency not to admit fault align with Taurus traits
+### Dimples' steadfastness and tendency not to admit fault align with Taurus traits [astrology reading](./readings/clementine.md)
 Dimples Clementine is a barista-turned-reality star on the hit television show Maw Maw Pearl & Me by the Cowlick Network.
 Dimples is massively superstitious, a constant lip licker, and could not admit fault to save their life. 
 Everyone knows that Dimples tries to pass off regular clothing as designer attire, but the fake emblems Dimples makes are far too transparent. 
@@ -45,7 +45,7 @@ But Dimples is one of the most patient and calm folks ever to be around and is t
 ## Jem Rock, Mobile DJ (Christian Steiner)
 ### Trailer Park: Spring Meadows, Lot 53 
 ### Aquarius - Birthday: January 17
-### Jem's desire to keep up with the Joneses and aspirations to leave Henpecked Junction align with Aquarius' independent and forward-thinking nature.
+### Jem's desire to keep up with the Joneses and aspirations to leave Henpecked Junction align with Aquarius' independent and forward-thinking nature. [astrology reading](./readings/rock.md)
 Jem Rock is the sassy gum-smacking DJ-for-hire. 
 Jem prefers heavy metal music, and it's rare to find this record spinner without the signature black attire from head to toe.
 The doc's warned this music spewer to cut back on the three cases of root beer poured down Jem's gullet each weekend, but Jem makes it a point to eat an apple every day to avoid having to go back for checkups. 
