@@ -246,7 +246,7 @@ To the south, characterized by open fields and blooming flowers.
 
 **Sweetpea Eversnot (Private Detective)**
 
-
+![Winter Hills](./images/trailerpark-winterhills.png "Winter Hills")
 ## Winter Hills (Lots 2, 3, 14, 16, 20): 
 Positioned to the west, with a hillier terrain and wintery themes.
 
