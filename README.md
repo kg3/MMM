@@ -1,4 +1,3 @@
-
 # MURDER, MAYHEM, & MULLETS
 ## SYNOPSIS
                   
@@ -12,6 +11,8 @@ Well, hmm, that bar ain't too high, if ya know what I'm sayin.
 But can't never could do nothing, so the show will go on as planned.
 I saw that you snagged your ticket to Mullet Fest, and I know you can't wait to see what all's being fried up for the food offerings.
 
+![Boo Boo Bonefat](./images/mayor.png "Boo Boo Bonefat")
+
 ## Boo Boo Bonefat, Mayor of Henpecked Junction (Nick Dufek)
 ### Trailer Park: Fall Pines, Lot 5 
 ### Cancer - Birthday: July 12
@@ -23,6 +24,8 @@ A severe hypochondriac, don't get the sniffles around Boo-Boo, or you'll throw t
 The mayor often scribbles things in a small notebook, but many people want to know why. 
 Boo-Boo is freakishly organized, which enhances their deductive reasoning skills. 
 The mayor is also the town's protector of animals and a rather gifted storyteller.
+
+
 
 ## Dimples Clementine, Reality Star (Christina Dufek)
 ### Trailer Park: Spring Meadows, Lot 52
