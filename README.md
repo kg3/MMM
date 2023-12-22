@@ -16,7 +16,7 @@ I saw that you snagged your ticket to Mullet Fest, and I know you can't wait to 
 ## Boo Boo Bonefat, Mayor of Henpecked Junction (Nick Dufek)
 ### Trailer Park: Fall Pines, Lot 5 
 ### Cancer - Birthday: July 12
-### Boo Boo's protectiveness of animals and their gift for storytelling are typical of Cancers. They are nurturing and sentimental individuals. [detailed astrology](other_file.md)
+### Boo Boo's protectiveness of animals and their gift for storytelling are typical of Cancers. They are nurturing and sentimental individuals. [detailed astrology](./readings/bonefat.md)
 Boo-Boo Bonefat has been the residing mayor of Henpecked Junction for almost a decade. 
 Boo-Boo despises change of any kind and manages the town with questionable practices. 
 Boo-Boo will make up words to make your brain spin while gazing into your eyes with unreadable facial expressions. 
