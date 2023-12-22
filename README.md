@@ -164,7 +164,7 @@ But Skipper doesn’t judge others and is a loyal and dedicated friend.
 ## Cletus Bottums, Taxi Driver (Kurt Gibbons)
 ### Trailer Park: Summer Gardens, Lot 13 
 ### Gemini - Birthday: June 7
-### Cletus' love for games and the ability to adapt to different situations are characteristic of Geminis.
+### Cletus' love for games and the ability to adapt to different situations are characteristic of Geminis. [astrology reading](./readings/bottums.md)
 Cletus Bottums runs the only taxi service in town — "I'll Get Ya There". 
 Cletus spends most evenings shuttling the residents of the four trailer parks in town to the "Rebel Yell Waterin' Hole" or the "Spotted Stag Dance Hall". 
 Cletus loves to play games and often leaves notes for others to find. 
@@ -181,7 +181,7 @@ Nevertheless, it's been in the making for almost ten years now.
 ## Ransom Cornfoot, Janitor (Mike Martinson)
 ### Trailer Park: Winter Hills, Lot 20
 ### Taurus - Birthday: April 30
-### Ransom's constant pacing and polite nature align with Taurus' practical and determined qualities.
+### Ransom's constant pacing and polite nature align with Taurus' practical and determined qualities. [astrology reading](./readings/cornfoot.md)
 Ransom Cornfoot has never heard an unfunny joke, as this janitor is always cackling.
 But Ransom’s got a laugh you'll always remember.
 It's potentially the most obnoxious snort-filled chuckle-giggles your ears have ever consumed.
@@ -198,7 +198,7 @@ For example, if you have a wedding in the summer — you better bet Ransom is sh
 ## Darleen Pringles, Waitress (Karen Martinson)
 ### Trailer Park: Winter Hills, Lot 3
 ### Aquarius - Birthday: February 3
-### Darleen's fussy eating habits and desire for approval may be connected to Aquarius' independent and forward-thinking qualities.
+### Darleen's fussy eating habits and desire for approval may be connected to Aquarius' independent and forward-thinking qualities. [astrology reading](./readings/pringles.md)
 Darleen Prangles is the head waitress at Breakfast Served Any Time — the central gathering spot of Henpecked Junction. 
 Because she smells food all day, Darleen is one fussy eater who must comment on others food choices - all while avoiding eye contact. 
 Darleen seeks approval from others and is a fantastic cook. 
