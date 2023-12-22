@@ -26,6 +26,7 @@ Boo-Boo is freakishly organized, which enhances their deductive reasoning skills
 The mayor is also the town's protector of animals and a rather gifted storyteller.
 
 
+![Dimples Clementine](./images/reality-star.png "Dimples Clementine")
 
 ## Dimples Clementine, Reality Star (Christina Dufek)
 ### Trailer Park: Spring Meadows, Lot 52
@@ -38,6 +39,9 @@ Dimples is always carrying a massive bag, and most of the time —it's empty.
 That's because this TV star steals everything not bolted down that can fit in the bag. 
 But Dimples is one of the most patient and calm folks ever to be around and is the first to see the good in others — even if it costs them.
 
+
+![Jem Rock](./images/mobile-dj.png "Jem Rock")
+
 ## Jem Rock, Mobile DJ (Christian Steiner)
 ### Trailer Park: Spring Meadows, Lot 53 
 ### Aquarius - Birthday: January 17
@@ -49,6 +53,9 @@ Jem took home the US Mullet Championship for three straight years, but Coors McF
 Jem is always trying to keep up with the Joneses and will spend every last penny on the best of anything just for bragging rights. 
 Jem has great aspirations for the DJ business and doesn't plan to stay in Henpecked Junction for much longer. 
 This DJ is a loyal friend for life and would never give up on those closest to them — but might betray someone if the stars were aligned exactly right.
+
+
+![Bubbles Chickenwort](./images/pig-farmer.png "Bubbles Chickenwort")
 
 ## Bubbles Chickenwort, Pig Farmer (Marie Steiner)
 ### Trailer Park: Winter Hills, Lot 16
@@ -63,6 +70,9 @@ Teachers throughout the earlier school years referred Bubbles to the a mullet by
 However, Bubbles fell out of sorts with academia by ninth grade and struggled through the next three years until graduation. 
 Bubbles had always wanted to raise animals as an occupation, and pigs just seemed right.
 
+
+![Crash P. Coltrane](./images/hair-tamer.png "Crash P. Coltrane")
+
 ## Crash P. Coltrane, Hair Tamer (George Butz)
 ### Trailer Park: Winter Hills, Lot 14 
 ### Leo - Birthday: August 19
@@ -76,6 +86,9 @@ Crash is notorious for stealing credit for anything good that happens and has an
 Funny enough, Crash tries to hide their 145 IQ. 
 Crash may be the most brilliant resident of Henpecked Junction, but you'd never know that.
 
+
+![Lipton Dittybopper](./images/shop-owner.png "Lipton Dittybopper")
+
 ## Lipton Dittybopper, Online Retail Shop Owner (Mandy Butz)
 ### Trailer Park: Summer Gardens, Lot 11
 ### Libra - Birthday: October 22
@@ -85,6 +98,9 @@ Lipton trusts everyone, is obsessed with pop culture, and is a rabid but fake ve
 Lipton can be highly judgmental and will insult others out of earshot.
 Lipton once saved a kitten from the top of a tree, and it somehow made national news. 
 But of course, you get to hear about it every time you see Lipton — who never misses a trivia night at the Rebel Yell Waterin’ Hole.
+
+
+![Gator Daniels](./images/mailman.png "Gator Daniels")
 
 ## Gator Daniels, Mailman (Richard Thomas)
 ### Trailer Park: Fall Pines, Lot 7 
@@ -99,6 +115,9 @@ Gator's a know-it-all and loves to claim a willing ear to listen to their accomp
 This mailperson isn't all about themeselves, though. 
 Gator is the town's humanitarian and is the only one who makes an effort to put on charitable events.
 
+
+![Clydetta Ruffnap](./images/fake-friend-1.png "Clydetta Ruffnap")
+
 ## Clydetta Ruffnap, Professional Fake Friend (Kirsten Thomas)
 ### Trailer Park: Summer Gardens, Lot 4 
 ### Virgo - Birthday: August 31
@@ -110,6 +129,8 @@ Unfortunately, this has caused her a few problems with the local kids vandalizin
 During conversations, Clydetta injects weird pauses mid-sentence and must always have the last word. 
 But she is super easy to influence if you need someone to agree or take your side. 
 In addition, Clydetta is enthusiastic about life and has become fluent in eight languages.
+
+![Sweetpea Eversnot](./images/detective.png "Sweetpea Eversnot")
 
 ## Sweetpea Eversnot, Private Detective (Lyndsey Gibbons)
 ### Trailer Park: Spring Meadows, Lot 25 
@@ -124,6 +145,9 @@ This practice tends to irritate others, but they all would agree that Sweetpea h
 So, there is no better sleuth for miles, and Sweetpea will get the job if a pet is missing, a friend or business associate is suspected of disloyalty, or maybe someone wants to track down a relative who's left town.
 Detective eversnot will go to the ends of the Earth to solve the case.
 
+
+![Skipper Clampetts](./images/chef.png "Skipper Clampetts")
+
 ## Skipper Clampetts, Fast Food Chef (Sean Gibbons)
 ### Trailer Park: Summer Gardens, Lot 14
 ### Aquarius - Birthday: February 9
@@ -133,6 +157,9 @@ Skipper’s known to be reactive and dramatic so working for this spatula-wielde
 Skipper is forgetful but surprisingly has a crystal-clear memory of being the regional dodgeball champion and MVP for Henpecked High in high school. 
 Skipper will always seek out flattery as this chefs super clean and pays close attention to hygiene. 
 But Skipper doesn’t judge others and is a loyal and dedicated friend.
+
+
+![Cletus Bottums](./images/taxi.png "Cletus Bottums")
 
 ## Cletus Bottums, Taxi Driver (Kurt Gibbons)
 ### Trailer Park: Summer Gardens, Lot 13 
@@ -149,6 +176,8 @@ So, to no surprise, Cletus is working on his first album.
 Nevertheless, it's been in the making for almost ten years now.
 
 
+![Ransom Cornfoot](./images/janitor-2.png "Ransom Cornfoot")
+
 ## Ransom Cornfoot, Janitor (Mike Martinson)
 ### Trailer Park: Winter Hills, Lot 20
 ### Taurus - Birthday: April 30
@@ -162,6 +191,9 @@ But Ransom is polite and is one to tuck a napkin in their shirt even if only dri
 A thoughtful gift giver, Ransom is a dear friend to have. 
 But, unfortunately, this clean freak never dresses appropriately for any occasion or weather. 
 For example, if you have a wedding in the summer — you better bet Ransom is showing up in overalls and a parka but will wear a short-sleeved tux to a crawfish boil in January.
+
+
+![Darleen Pringles](./images/waitress-1.png "Darleen Pringles")
 
 ## Darleen Pringles, Waitress (Karen Martinson)
 ### Trailer Park: Winter Hills, Lot 3
