@@ -247,7 +247,6 @@ To the south, characterized by open fields and blooming flowers.
 **Sweetpea Eversnot (Private Detective)**
 
 
-![Winter Hills](./images/trailerpark-winterhills.png "Winter Hills")
 ## Winter Hills (Lots 2, 3, 14, 16, 20): 
 Positioned to the west, with a hillier terrain and wintery themes.
 
@@ -289,28 +288,42 @@ Positioned to the west, with a hillier terrain and wintery themes.
 **Darleen Pringles**: Serving at Breakfast Served Any Time or perhaps dreaming of her future culinary career.
 
 ## Event-Specific Locations:
+
 **Mullet Fest**: A major gathering likely involving most characters, taking place in the Town Square.
 
+
 ## Businesses and Places of Interest:
+
+![Mullet Cuts](./images/mullets-cuts.png "Mullet Cuts")
 **Mullet Cuts Salon**: Run by Crash P. Coltrane.
 
+
+![The Angry Rooster](./images/angry-rooster.png "The Angry Rooster")
 **The Angry Rooster**: Fast-food establishment where Skipper Clampetts is the head chef.
 
+![Breakfast Served Any Time](./images/breakfast-served-anytime.png "Breakfast Served Any Time")
 **Breakfast Served Any Time**: Central gathering spot with Darleen Pringles as the head waitress.
 
+![Rebel Yell Waterin’ Hole](./images/rebel-yell-waterinhole.png "Rebel Yell Waterin’ Hole")
 **Rebel Yell Waterin’ Hole**: A popular hangout spot, frequented by Lipton Dittybopper.
 
+![Spotted Stag Dance Hall](./images/spotted-stag.png "Spotted Stag Dance Hall")
 **Spotted Stag Dance Hall**: Another social venue.
 
+![Henpecked Junction Town Square](./images/townsquare.png "Henpecked Junction Town Square")
 **Henpecked Junction Town Square**: Location for the Mullet Fest.
 
+![Local High School](./images/highschool.png "Local High School")
 **Local High School**: One of Ransom Cornfoot’s janitorial locations.
 
+![City Hall](./images/cityhall.png "City Hall")
 **City Hall**: Cleaned by Ransom Cornfoot.
 
+![Bubbles Chickenwort’s Pig Farm](./images/pigfarm.png "Bubbles Chickenwort’s Pig Farm")
 **Bubbles Chickenwort’s Pig Farm**: Located on the outskirts.
 
+![Post Office](./images/postoffice.png "Post Office")
 **Post Office**: Where Gator Daniels works.
 
+![Taxi Service](./images/illgetyoutheretaxi.png "Taxi Service")
 **"I'll Get Ya There" Taxi Service**: Operated by Cletus Bottums.
-
