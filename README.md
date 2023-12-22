@@ -212,7 +212,9 @@ Darleen seeks approval from others and is a fantastic cook.
 She recently received an acceptance letter from a top culinary school in New York City — Culinary Master Academy. 
 The townies have poked fun of her for wanting to be a city slicker, but Darleen aspires to land a job in the kitchen of a famous restaurant in the big city after graduating from school.
 
-# Trailer Parks Arrangement:
+# Trailer Parks:
+
+![Fall Pines](./images/trailerpark-fallpines.png "Fall Pines")
 ## Fall Pines (Lots 1, 5, 7, 8): 
 
 Located to the north of the town square, a forested area with autumn-themed decorations.
@@ -221,6 +223,8 @@ Located to the north of the town square, a forested area with autumn-themed deco
 
 **Gator Daniels (Mailman)**
 
+
+![Summer Gardens](./images/trailerpark-summergardens.png "Summer Gardens")
 ## Summer Gardens (Lots 4, 11, 13, 14): 
 Situated to the east, featuring lush greenery and floral arrangements.
 
@@ -232,7 +236,7 @@ Situated to the east, featuring lush greenery and floral arrangements.
 
 **Cletus Bottums (Taxi Driver)**
 
-
+![Spring Meadows](./images/trailerpark-springmeadows.png "Spring Meadows")
 ## Spring Meadows (Lots 25, 52, 53): 
 To the south, characterized by open fields and blooming flowers.
 
@@ -242,12 +246,17 @@ To the south, characterized by open fields and blooming flowers.
 
 **Sweetpea Eversnot (Private Detective)**
 
+
+![Winter Hills](./images/trailerpark-winterhills.png "Winter Hills")
 ## Winter Hills (Lots 2, 3, 14, 16, 20): 
 Positioned to the west, with a hillier terrain and wintery themes.
 
 **Bubbles Chickenwort (Pig Farmer)**
+
 **Crash P. Coltrane (Hair Tamer)**
+
 **Ransom Cornfoot (Janitor)**
+
 **Darleen Pringles (Waitress)**
 
 
