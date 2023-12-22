@@ -18,7 +18,7 @@ But can't never could do nothing, so the show will go on as planned.
 I saw that you snagged your ticket to Mullet Fest, and I know you can't wait to see what all's being fried up for the food offerings.
 
 
-![Boo Boo Bonefat](./images/mayor-2.png "Boo Boo Bonefat")
+![Boo Boo Bonefat](./images/mayor-3.png "Boo Boo Bonefat")
 
 ## Boo Boo Bonefat, Mayor of Henpecked Junction (Nick Dufek)
 ### Trailer Park: Fall Pines, Lot 5 
@@ -47,7 +47,7 @@ That's because this TV star steals everything not bolted down that can fit in th
 But Dimples is one of the most patient and calm folks ever to be around and is the first to see the good in others — even if it costs them.
 
 
-![Jem Rock](./images/mobile-dj.png "Jem Rock")
+![Jem Rock](./images/mobile-dj-5.png "Jem Rock")
 
 ## Jem Rock, Mobile DJ (Christian Steiner)
 ### Trailer Park: Spring Meadows, Lot 53 
@@ -183,7 +183,7 @@ So, to no surprise, Cletus is working on his first album.
 Nevertheless, it's been in the making for almost ten years now.
 
 
-![Ransom Cornfoot](./images/janitor-2.png "Ransom Cornfoot")
+![Ransom Cornfoot](./images/janitor.png "Ransom Cornfoot")
 
 ## Ransom Cornfoot, Janitor (Mike Martinson)
 ### Trailer Park: Winter Hills, Lot 20
@@ -200,7 +200,7 @@ But, unfortunately, this clean freak never dresses appropriately for any occasio
 For example, if you have a wedding in the summer — you better bet Ransom is showing up in overalls and a parka but will wear a short-sleeved tux to a crawfish boil in January.
 
 
-![Darleen Pringles](./images/waitress-1.png "Darleen Pringles")
+![Darleen Pringles](./images/waitress.png "Darleen Pringles")
 
 ## Darleen Pringles, Waitress (Karen Martinson)
 ### Trailer Park: Winter Hills, Lot 3
